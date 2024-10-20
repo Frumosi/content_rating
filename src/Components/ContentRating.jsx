@@ -27,7 +27,9 @@ class ContentRating extends Component {
      <>
      <div className='content-rating'>
         <p> 
-            Add text here
+            As you're familiar with cloud sources, continue exploring multi-cloud and hybrid cloud solutions. 
+            Many organizations are shifting towards 
+            a mix of on-premises, private cloud, and public cloud infrastructure for flexibility, cost-effectiveness, and resilience.
         </p>
         <div className='rating-buttons'>
         <button className="like-button" onClick={this.state.handleLike}>
